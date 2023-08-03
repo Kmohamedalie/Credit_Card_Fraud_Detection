@@ -2,11 +2,11 @@
 
 ### **Task:** Examples represent 1 and 0 instances of Fraudulent and Genuine Transaction of European customers.
 ### **Trained Model:** 
-[Model](), Training Time: --,  Accuracy: --  but note that 99.8% of the transactions were Genuine and 0.1667% were Fraudulent, so it likely that 99% of the time the model will predict the transaction as Genuine. So it is better we focus on other metrics such as f1-score, precision and recall since the dataset is imbalanced (--).
+[Model](), Training Time: 37min 21s,  Accuracy: 100% but note that 99.8% of the transactions were Genuine and 0.1667% were Fraudulent, so it likely that 99% of the time the model will predict the transaction as Genuine. So it is better we focus on other metrics such as f1-score (Genuine: 100%, Fraud: 87%), precision (Genuine: 100%, Fraud: 95%) and recall (Genuine: 100%, Fraud: 81%) since the dataset is imbalanced.
 ### **Dataset available on:** [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 **Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation),  [Google Machine Learning Education](https://developers.google.com/machine-learning)                                            
-**Link to the notebook:** [Credit Card Fraud Detection - SVM]()
+**Link to the notebook:** Credit Card Fraud Detection -[xgboost](https://github.com/Kmohamedalie/Credit_Card_Fraud_Detection/blob/master/Notebook/Credit_Card_Fraud_Detection_XGBOOST_%26_GridSearchCV.ipynb), [SVM]()
 
 
 
