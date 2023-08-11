@@ -6,7 +6,7 @@
 ### **Dataset available on:** [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 **Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation),  [Google Machine Learning Education](https://developers.google.com/machine-learning)                                            
-**Link to the notebook:** Credit Card Fraud Detection -[xgboost](https://github.com/Kmohamedalie/Credit_Card_Fraud_Detection/blob/master/Notebook/Credit_Card_Fraud_Detection_XGBOOST_%26_GridSearchCV.ipynb), [SVM]()
+**Link to the notebook:** Credit Card Fraud Detection -[xgboost](https://github.com/Kmohamedalie/Credit_Card_Fraud_Detection/blob/master/Notebook/Credit_Card_Fraud_Detection_XGBOOST_%26_GridSearchCV.ipynb)
 
 
 
