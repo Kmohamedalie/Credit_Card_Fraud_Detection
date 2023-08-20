@@ -6,13 +6,50 @@
 ### **Dataset available on:** [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 **Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation),  [Google Machine Learning Education](https://developers.google.com/machine-learning)                                            
-**Link to the notebook:** Credit Card Fraud Detection -[xgboost](https://github.com/Kmohamedalie/Credit_Card_Fraud_Detection/blob/master/Notebook/Credit_Card_Fraud_Detection_XGBOOST_%26_GridSearchCV.ipynb)
+**Link to the complete notebook:** Credit Card Fraud Detection -[xgboost](https://github.com/Kmohamedalie/Credit_Card_Fraud_Detection/blob/master/Notebook/Credit_Card_Fraud_Detection_XGBOOST_%26_GridSearchCV.ipynb)
+
+
+
 
 
 
 ![image](https://github.com/Kmohamedalie/Credit_Card_Fraud_Detection-SVM/assets/63104472/8219a470-ff04-4689-89d8-f73dcce764f5)
 
-### About Dataset: <br>
+
+
+### **Metrics:**
+| Algorithm | Precision | Recall | F1-score | Accuracy |
+|-----------|-----------|--------|----------|----------|
+| Xgboost(GridSearchCV   | 100%    |  100% | 100% | 100%     |
+
+
+
+<br>
+
+
+
+
+
+### **Classification report:**
+![image](https://github.com/Kmohamedalie/Credit_Card_Fraud_Detection/assets/63104472/d5120c3c-e852-4f7d-9810-ded622207f26)
+
+
+
+<br>
+
+
+
+### **Confusion matrix:**
+![image](https://github.com/Kmohamedalie/Credit_Card_Fraud_Detection/assets/63104472/61edef03-b1b2-42fe-8ba8-5ce24964f12c)
+
+
+
+
+
+
+<br>
+
+## **Additional information about the Dataset:** <br>
 ### Context: <br>
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
